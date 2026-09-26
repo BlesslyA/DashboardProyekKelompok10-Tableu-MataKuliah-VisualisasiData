@@ -1,6 +1,6 @@
 # Penggunaan Internet untuk Belajar di Jawa Barat
-Project Kelompok Tableu mata kuliah Visualisasi Data
-Judul "Penggunaan Internet untuk Belajar di Jawa Barat" 
+Project Kelompok Tableu mata kuliah Visualisasi Data'
+Judul "Penggunaan Internet untuk Belajar di Jawa Barat" '
 Data: Seusesnas Jawa Barat 2019-2023
 
 ## Tableu Dashboard
